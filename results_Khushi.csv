@@ -1,0 +1,4 @@
+model,eval_set,accuracy,macro_f1
+tfidf_logreg,sentence,0.9403669724770642,0.6375347679695506
+tfidf_logreg,screenshot,0.75,0.5121180173572913
+tfidf_logreg,held_out,0.574468085106383,0.4728328173374613
