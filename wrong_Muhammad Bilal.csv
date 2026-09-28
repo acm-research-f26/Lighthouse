@@ -1,0 +1,30 @@
+text,label,prediction
+You would be missing out if you say no,confirmshaming,hidden_information
+Are you sure you want to stop protecting your family?,confirmshaming,hidden_information
+1000 left,none,scarcity
+50% but only for the next decade,none,urgency
+between 0 and 1 million left in stock,none,scarcity
+Get our new student discount. 15% off with a valid student ID,none,hidden_information
+Rate our Product! Remind me later.,none,hidden_information
+Toggled settings to allow notifications and data collection by default,preselection,hidden_information
+only 1 item left in stock,scarcity,urgency
+25 people have this in their cart at the moment,scarcity,social_proof
+"No thanks, I'd rather pay full price",confirmshaming,hidden_information
+Student discounts offered,none,hidden_information
+"Everyone in dallas is buying the new ford bronco, now is your time",social_proof,urgency
+the new harry potter movie is dropping on 22 september this year,none,urgency
+Free shipping on orders over $50,none,social_proof
+Currently out of stock,none,urgency
+"4.6 out of 5 stars from 1,204 reviews",none,social_proof
+Summer sale: 20% off all sandals,none,hidden_information
+Ships in 3 to 5 business days,none,urgency
+Return it within 30 days for a full refund,none,urgency
+Now available in three colors,none,social_proof
+Add to cart,none,social_proof
+In stock at your local store,none,social_proof
+Save this item to your wishlist,none,hidden_information
+We use cookies. Accept all or manage your preferences.,none,hidden_information
+Compare similar items,none,hidden_information
+"Price: $24.99, tax calculated at checkout",none,hidden_information
+Sign in to see your order history,none,social_proof
+This product weighs 2.3 lbs and ships from Ohio,none,urgency

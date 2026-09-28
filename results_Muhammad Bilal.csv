@@ -1,0 +1,4 @@
+model,eval_set,accuracy,macro_f1
+zero_shot_bart,sentences,0.6009174311926605,0.36371134020618556
+zero_shot_bart,screenshots,0.14204545454545456,0.15616340953109067
+zero_shot_bart,held_out,0.3829787234042553,0.2837662337662338
