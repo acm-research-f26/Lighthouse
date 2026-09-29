@@ -1,0 +1,24 @@
+text,label,predicted
+You would be missing out if you say no,confirmshaming,hidden_information
+"The performance of the product is better now, only 17 made ever",scarcity,social_proof
+"not a dark pattern, nothing to see here",none,social_proof
+1000 left,none,scarcity
+50% but only for the next decade,none,scarcity
+between 0 and 1 million left in stock,none,scarcity
+Get our new student discount. 15% off with a valid student ID,none,preselection
+25 people have this in their cart at the moment,scarcity,social_proof
+Student discounts offered,none,urgency
+the new harry potter movie is dropping on 22 september this year,none,urgency
+Free shipping on orders over $50,none,urgency
+Currently out of stock,none,scarcity
+Summer sale: 20% off all sandals,none,urgency
+Ships in 3 to 5 business days,none,urgency
+Return it within 30 days for a full refund,none,urgency
+Now available in three colors,none,scarcity
+Add to cart,none,social_proof
+In stock at your local store,none,scarcity
+Save this item to your wishlist,none,hidden_information
+We use cookies. Accept all or manage your preferences.,none,preselection
+"Price: $24.99, tax calculated at checkout",none,hidden_information
+Sign in to see your order history,none,preselection
+This product weighs 2.3 lbs and ships from Ohio,none,social_proof

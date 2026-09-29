@@ -1,0 +1,4 @@
+model,eval_set,accuracy,macro_f1
+embeddings_logreg,sentences,0.9770642201834863,0.8176909811056152
+embeddings_logreg,screenshots,0.6363636363636364,0.3980685543831232
+embeddings_logreg,held_out,0.5106382978723404,0.48108733371891266
