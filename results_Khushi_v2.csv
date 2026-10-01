@@ -1,0 +1,7 @@
+model,metric,value
+tfidf_baseline,sent_f1_four,0.9579124579124579
+tfidf_baseline,shot_accuracy,0.6954022988505747
+tfidf_baseline,shot_always_none,0.5632183908045977
+tfidf_baseline,shot_dark_f1,0.7014925373134329
+tfidf_baseline,heldout_none_passed,7.0
+tfidf_baseline,heldout_dark_right,16.0

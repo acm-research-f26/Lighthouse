@@ -1,0 +1,5 @@
+split,method,accuracy
+old,filename_rule,0.7897727272727273
+old,tfidf,0.75
+new,filename_rule,0.7931034482758621
+new,tfidf,0.6954022988505747
