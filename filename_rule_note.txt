@@ -1,1 +1,0 @@
-File type strongly predicts label without reading any text — e.g. plain_number files are almost always 'none' and numbered_site files are almost always 'urgency'.
