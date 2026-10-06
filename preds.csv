@@ -1,0 +1,48 @@
+text,label,predicted
+"Better grab it, barely any left",scarcity,none
+Buy it before the timer runs out,urgency,none
+There are hardly any of these remaining,scarcity,none
+You would be missing out if you say no,confirmshaming,none
+Everyone is buying this right now,social_proof,none
+People can't stop buying this product,social_proof,social_proof
+"The performance of the product is better now, only 17 made ever",scarcity,none
+Are you sure you want to stop protecting your family?,confirmshaming,none
+"not a dark pattern, nothing to see here",none,none
+1000 left,none,none
+50% but only for the next decade,none,none
+between 0 and 1 million left in stock,none,none
+20% off but just for today,urgency,none
+Sale ends in 01:59:00,urgency,urgency
+"bought 200 times, only ten left in stock",scarcity,scarcity
+bought 200 times,social_proof,social_proof
+Limited time offer: get 30% off your first 3 months till september 30th. You can always cancel anytime,urgency,urgency
+10 days left for our end of summer sale. Get 50% off until the end of the month.,urgency,none
+Get our new student discount. 15% off with a valid student ID,none,none
+Rate our Product! Remind me later.,none,none
+Toggled settings to allow notifications and data collection by default,preselection,preselection
+90k people have viewed this item,social_proof,social_proof
+35% off on all items for a limited time only!,urgency,urgency
+only 1 item left in stock,scarcity,scarcity
+25 people have this in their cart at the moment,scarcity,social_proof
+"No thanks, I'd rather pay full price",confirmshaming,confirmshaming
+"Over 12,000 people bought this today",social_proof,social_proof
+Student discounts offered,none,none
+70% of our users are making more than 700K,social_proof,none
+"Everyone in dallas is buying the new ford bronco, now is your time",social_proof,none
+"The buy one get one free deal will end in 3 hours, shop now",urgency,none
+the new harry potter movie is dropping on 22 september this year,none,none
+Free shipping on orders over $50,none,none
+Currently out of stock,none,none
+"4.6 out of 5 stars from 1,204 reviews",none,none
+Summer sale: 20% off all sandals,none,urgency
+Ships in 3 to 5 business days,none,none
+Return it within 30 days for a full refund,none,none
+Now available in three colors,none,none
+Add to cart,none,none
+In stock at your local store,none,none
+Save this item to your wishlist,none,none
+We use cookies. Accept all or manage your preferences.,none,none
+Compare similar items,none,none
+"Price: $24.99, tax calculated at checkout",none,none
+Sign in to see your order history,none,none
+This product weighs 2.3 lbs and ships from Ohio,none,none
