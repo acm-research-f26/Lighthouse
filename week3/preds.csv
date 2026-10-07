@@ -1,0 +1,181 @@
+image,label,predicted
+Arjun_01.png,preselection,none
+Arjun_02.png,hidden information,none
+Arjun_03.png,urgency,urgency
+Arjun_04.png,urgency,urgency
+Arjun_05.png,urgency,urgency
+Arjun_06.png,urgency,urgency
+Arjun_07.png,social proof,social proof
+Arjun_08.png,social proof,none
+Arjun_09.png,urgency,urgency
+Arjun_10.png,scarcity,social proof
+Arjun_17_Hidden.png,hidden information,none
+Khushi_01.png,social proof,social proof
+Khushi_02.png,confirmshaming,none
+Khushi_03.png,urgency,urgency
+Khushi_04.png,confirmshaming,urgency
+Khushi_05.png,urgency,urgency
+Khushi_06.png,scarcity,scarcity
+Khushi_07.png,social proof,social proof
+Khushi_08.png,preselection,none
+Khushi_10.png,hidden information,none
+Khushi_11.png,scarcity,urgency
+Khushi_12.png,hidden information,hidden information
+Khushi_13.png,hidden information,preselection
+Khushi_14.png,urgency,urgency
+Khushi_15.png,urgency,urgency
+Khushi_16.png,hidden information,social proof
+Khushi_17.png,confirmshaming,confirmshaming
+Khushi_18.png,scarcity,scarcity
+Khushi_19.png,preselection,preselection
+Khushi_21.png,confirmshaming,confirmshaming
+Khushi_22.png,social proof,social proof
+Khushi_23.png,confirmshaming,confirmshaming
+Khushi_24.png,confirmshaming,confirmshaming
+Khushi_25.png,confirmshaming,confirmshaming
+Khushi_26.png,hidden information,hidden information
+Khushi_27.png,confirmshaming,confirmshaming
+Khushi_28.png,confirmshaming,confirmshaming
+Khushi_29.png,confirmshaming,confirmshaming
+Khushi_30.png,hidden information,hidden information
+Khushi_31.png,preselection,preselection
+Khushi_32.png,preselection,hidden information
+Khushi_33.png,preselection,none
+Khushi_34.png,preselection,none
+LH1.png,scarcity,urgency
+LH10.png,preselection,hidden information
+LH11.png,hidden information,none
+LH12.png,preselection,preselection
+LH13.png,hidden information,none
+LH14.png,preselection,none
+LH15.jpeg,urgency,urgency
+LH2.png,social proof,social proof
+LH20.png,urgency,urgency
+LH28.png,confirmshaming,confirmshaming
+LH29.png,confirmshaming,confirmshaming
+LH30.png,confirmshaming,confirmshaming
+LH31.png,confirmshaming,confirmshaming
+LH32.png,confirmshaming,confirmshaming
+LH33.png,confirmshaming,confirmshaming
+LH34.png,confirmshaming,confirmshaming
+LH35.png,confirmshaming,confirmshaming
+LH36.png,confirmshaming,urgency
+LH37.png,preselection,preselection
+LH38.png,preselection,preselection
+LH39.png,confirmshaming,confirmshaming
+LH4.png,urgency,urgency
+LH40.png,preselection,preselection
+LH41.png,hidden information,none
+LH42.png,hidden information,hidden information
+LH43.png,hidden information,none
+LH5.png,social proof,none
+LH6.png,social proof,none
+LH7.png,social proof,none
+LH8.png,scarcity,scarcity
+LH9.png,urgency,urgency
+Muhammad_01.png,urgency,none
+Muhammad_02.png,urgency,urgency
+Muhammad_03.png,confirmshaming,confirmshaming
+Muhammad_04.png,confirmshaming,none
+Muhammad_05.png,preselection,urgency
+Muhammad_06.png,preselection,none
+Muhammad_07.png,social proof,none
+Muhammad_08.png,confirmshaming,social proof
+Muhammad_09.png,confirmshaming,none
+Muhammad_10.png,hidden information,none
+Muhammad_11.png,scarcity,none
+Muhammad_12.png,social proof,social proof
+Muhammad_13.png,social proof,social proof
+Muhammad_14.png,social proof,none
+Muhammad_15.png,hidden information,none
+Muhammad_18.png,preselection,none
+Muhammad_19.png,urgency,social proof
+Muhammad_20.png,urgency,social proof
+Muhammad_31.png,preselection,none
+Muhammad_32.png,preselection,hidden information
+Muhammad_33.png,hidden information,none
+Muhammad_34.png,preselection,urgency
+Muhammad_35.png,hidden information,none
+Muhammad_36.png,confirmshaming,confirmshaming
+Muhammad_37.png,hidden information,none
+Muhammad_38.png,hidden information,hidden information
+Muhammad_39.png,confirmshaming,confirmshaming
+Muhammad_40.png,confirmshaming,urgency
+Muhammad_41.png,confirmshaming,confirmshaming
+Muhammad_42.png,confirmshaming,confirmshaming
+Muhammad_43.png,confirmshaming,confirmshaming
+Arjun_11_Negative.png,none,none
+Arjun_12_Negative.png,none,none
+Arjun_13_Negative.png,none,none
+Arjun_14_Negative.png,none,none
+Arjun_15_Negative.png,none,none
+Arjun_16_Negative.png,none,none
+Arjun_18_Negative.png,none,none
+Arjun_19_Negative.png,none,none
+Arjun_20_Negative.png,none,none
+Arjun_21_Negative.png,none,none
+Khushi_20.png,none,none
+Khushi_35.png,none,none
+Khushi_36.png,none,none
+Khushi_37.png,none,none
+Khushi_38.png,none,none
+Khushi_39.png,none,none
+Khushi_40.png,none,none
+Khushi_41.png,none,none
+Khushi_42.png,none,none
+Khushi_43.png,none,none
+Khushi_44.png,none,none
+Khushi_45.png,none,none
+Muhammad_16.png,none,none
+Muhammad_17.png,none,none
+Muhammad_21.png,none,none
+Muhammad_22.png,none,none
+Muhammad_23.png,none,none
+Muhammad_24.png,none,none
+Muhammad_25.png,none,none
+Muhammad_26.png,none,none
+Muhammad_27.png,none,none
+Muhammad_28.png,none,none
+Muhammad_29.png,none,none
+Muhammad_30.png,none,none
+LH3.png,none,none
+LH16.png,none,none
+LH17.png,none,none
+LH18.png,none,none
+LH19.png,none,none
+LH21.png,none,none
+LH22.png,none,none
+LH23.png,none,urgency
+LH24.png,none,none
+LH25.png,none,none
+LH26.png,none,none
+LH27.png,none,none
+Khushi_09.png,social proof,social proof
+Arjun_22.jpg,confirmshaming,confirmshaming
+Arjun_23.jpg,confirmshaming,confirmshaming
+Arjun_24.jpg,confirmshaming,confirmshaming
+Arjun_25.jpg,confirmshaming,confirmshaming
+Arjun_26.jpg,confirmshaming,confirmshaming
+Arjun_27.jpg,confirmshaming,confirmshaming
+Arjun_28.jpg,confirmshaming,confirmshaming
+Arjun_29.jpg,confirmshaming,confirmshaming
+Arjun_30.jpg,confirmshaming,confirmshaming
+Arjun_31.jpg,confirmshaming,confirmshaming
+Arjun_32.jpg,confirmshaming,confirmshaming
+Arjun_33.jpg,confirmshaming,confirmshaming
+Arjun_35.jpg,confirmshaming,confirmshaming
+Arjun_34.jpg,confirmshaming,confirmshaming
+Arjun_36.jpg,confirmshaming,confirmshaming
+Arjun_37.jpg,confirmshaming,confirmshaming
+Arjun_38.jpg,confirmshaming,confirmshaming
+Arjun_40.png,hidden information,hidden information
+Arjun_41.jpg,hidden information,none
+Arjun_42.jpg,hidden information,hidden information
+Arjun_43.jpg,hidden information,hidden information
+Arjun_44.jpg,hidden information,hidden information
+Arjun_47.jpg,preselection,preselection
+Arjun_45.jpg,hidden information,none
+Arjun_46.jpg,preselection,none
+Arjun_48.jpg,none,none
+Arjun_49.jpg,none,confirmshaming
+Arjun_39.png,hidden information,hidden information
